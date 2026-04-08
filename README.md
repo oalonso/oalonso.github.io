@@ -6,7 +6,7 @@
 
 Twitter/X -> @elunca
 
-Slides and code on <a href="https://github.com/oalonso">Github</a>
+Presentation slides, papers and code in <a href="https://github.com/oalonso">Github</a>
 
 # Short bio
 
