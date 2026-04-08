@@ -1,4 +1,3 @@
-<h3>Omar Alonso -- Home Page</h3>
 
 # Contact info
 
