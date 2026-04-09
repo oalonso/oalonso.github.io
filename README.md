@@ -19,6 +19,12 @@ Experienced applied researcher manager and individual contributor in the areas o
 <li>O. Alonso "<a href="https://link.springer.com/book/10.1007/978-3-031-02318-7">The Practice of Crowdsourcing</a>. Springer, 2019</li>
 </ol>
 
+# Past teaching
+<ul>
+  <li>Special topics in IR and NLP (CS7209), Northeastern</li>
+  <li>Information retrieval (CS6200), Northeastern</li>
+</ul>
+
 # Publications
 
 <ul>
