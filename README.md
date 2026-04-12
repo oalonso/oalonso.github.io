@@ -25,7 +25,7 @@ Experienced applied researcher manager and individual contributor in the areas o
   <li>Information retrieval (CS6200), Northeastern</li>
 </ul>
 
-# Some past tutorials
+# Recent tutorials
 <ul>
   <li>SIGIR 2026</li>
   <li><a href="https://dl.acm.org/doi/10.1145/3616855.3636452">Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly</a>, WSDM 2024</li>
