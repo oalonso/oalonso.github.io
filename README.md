@@ -14,9 +14,9 @@ Experienced applied researcher manager and individual contributor in the areas o
 # Books
 
 <ol>
-<li>O. Alonso and R. Baeza-Yates (Editors): <a href="https://dl.acm.org/doi/book/10.1145/3674127">Information Retrieval: Advanced Topics and Techniques</a>. ACM Books, 2024.</li>
+<li>O. Alonso and R. Baeza-Yates (Editors). <a href="https://dl.acm.org/doi/book/10.1145/3674127">Information Retrieval: Advanced Topics and Techniques</a>. ACM Books, 2024.</li>
 
-<li>O. Alonso <a href="https://link.springer.com/book/10.1007/978-3-031-02318-7">The Practice of Crowdsourcing</a>. Springer, 2019.</li>
+<li>O. Alonso. <a href="https://link.springer.com/book/10.1007/978-3-031-02318-7">The Practice of Crowdsourcing</a>. Springer, 2019.</li>
 </ol>
 
 # Past teaching
