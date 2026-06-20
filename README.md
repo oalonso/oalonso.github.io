@@ -34,7 +34,7 @@ Experienced applied researcher manager and individual contributor in the areas o
 
 # TempWeb
 
-Ongoing Temporal Web Analytics Workshop at WWW. TempWeb provides a forum for researchers and practitioners from diverse fields — including information retrieval, web mining, big data, and even social sciences, marketing, and economics — to share work on temporal analytics of the web. <a href="https://temporalweb.net/">Website</a>.
+TempWeb provides a forum for researchers and practitioners from diverse fields — including information retrieval, web mining, big data, and even social sciences, marketing, and economics — to share work on temporal analytics of the web. <a href="https://temporalweb.net/">Website</a>.
 
 # Publications
 
