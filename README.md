@@ -21,8 +21,8 @@ Experienced applied researcher manager and individual contributor in the areas o
 
 # Past teaching
 <ul>
-  <li>Special topics in IR and NLP (CS7209), Northeastern</li>
-  <li>Information retrieval (CS6200), Northeastern</li>
+  <li>Special Topics in IR and NLP (CS7209), Northeastern</li>
+  <li>Information Retrieval (CS6200), Northeastern</li>
 </ul>
 
 # Recent tutorials
