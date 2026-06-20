@@ -28,8 +28,7 @@ Experienced applied researcher manager and individual contributor in the areas o
 # Recent tutorials
 <ul>
   <li>Temporal Information Retrieval and Extraction: From Foundations to RAG, SIGIR 2026</li>
-  <li><a href="https://dl.acm.org/doi/10.1145/3616855.3636452">Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly</a>, WSDM 2024</li>
-  <li><a href="https://dl.acm.org/doi/10.1145/3583780.3615295">Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly</a>, CIKM 2023 (<a href="https://github.com/kwchurch/CIKM_2023_tutorial">Slides</a>)</li>
+  <li>Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly, <a href="https://dl.acm.org/doi/10.1145/3616855.3636452">WSDM 2024</a>, <a href="https://dl.acm.org/doi/10.1145/3583780.3615295"> CIKM 2023</a> (<a href="https://github.com/kwchurch/CIKM_2023_tutorial">Slides</a>)</li>
 </ul>
 
 # TempWeb
