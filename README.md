@@ -32,6 +32,10 @@ Experienced applied researcher manager and individual contributor in the areas o
   <li><a href="https://dl.acm.org/doi/10.1145/3583780.3615295">Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly</a>, CIKM 2023 (<a href="https://github.com/kwchurch/CIKM_2023_tutorial">Slides</a>)</li>
 </ul>
 
+# TempWeb
+
+Ongoing Temporal Web Analytics Workshop at WWW. TempWeb provides a forum for researchers and practitioners from diverse fields — including information retrieval, web mining, big data, and even social sciences, marketing, and economics — to share work on temporal analytics of the web. <a href="https://temporalweb.net/">Website</a>.
+
 # Publications
 
 <ul>
