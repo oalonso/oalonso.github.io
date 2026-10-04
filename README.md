@@ -9,7 +9,7 @@ Presentation slides, papers and code in <a href="https://github.com/oalonso">Git
 
 # Short bio
 
-Experienced applied researcher manager and individual contributor in the areas of information retrieval, social search, NLP, knowledge graphs, data quality, and labeling. Drove many 0-to-1 projects to completion. Hands on. More details and work history on <a href="https://www.linkedin.com/in/omar-alonso-8a5235/">LinkedIn</a>
+Experienced applied researcher manager and individual contributor in the areas of information retrieval, NLP, knowledge graphs, labeling, and evaluation/training sets. Drove many 0-to-1 projects to completion. Hands on. More details and work history on <a href="https://www.linkedin.com/in/omar-alonso-8a5235/">LinkedIn</a>. Scientific Co-Chair for SIGIR 2025. 
 
 # Books
 
