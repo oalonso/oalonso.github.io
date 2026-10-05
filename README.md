@@ -32,13 +32,16 @@ Experienced applied researcher manager and individual contributor in the areas o
   <li>Some Useful Things to Know When Combining IR and NLP: The Easy, the Hard and the Ugly, <a href="https://dl.acm.org/doi/10.1145/3616855.3636452">WSDM 2024</a>, <a href="https://dl.acm.org/doi/10.1145/3583780.3615295"> CIKM 2023</a> (<a href="https://github.com/kwchurch/CIKM_2023_tutorial">Slides</a>)</li>
 </ul>
 
-# TempWeb
+# Conferences and workshops
 
-TempWeb provides a forum for researchers and practitioners from diverse fields — including information retrieval, web mining, big data, and even social sciences, marketing, and economics — to share work on temporal analytics of the web. <a href="https://temporalweb.net/">Website</a>.
+<ul>
+  <li><b><a href="https://temporalweb.net/">TempWeb</a></b> provides a forum for researchers and practitioners from diverse fields — including information retrieval, web mining, big data, and even social sciences, marketing, and economics — to share work on temporal analytics of the web. </li>
+  <li>Started DESIRES (Design of Experimental Search & Information REtrieval Systems) conference for discussing visionary ideas in search and retrieval systems. Next edition in <a href="https://desires-conf.github.io/2027/">2027</a>.</li>
+</ul>
 
-# DESIRES 
+ 
 
-Started DESIRES (Design of Experimental Search & Information REtrieval Systems) conference for discussing visionary ideas in search and retrieval systems. Next edition in <a href="https://desires-conf.github.io/2027/">2027</a>.
+
 
 # Publications
 
